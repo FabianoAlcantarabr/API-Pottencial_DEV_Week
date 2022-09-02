@@ -1,4 +1,4 @@
-# Requisições HTTP
+# Requisições HTP
 
 ## Verbos HTTP
 - Get - Selecionar/Buscar Dados
@@ -6,3 +6,4 @@
 - Put - Atualizar dados
 - Patch - Atualizar parcialmente dados
 - Delete - Deletar dados
+#EuPerdiOMedoDoDotNet

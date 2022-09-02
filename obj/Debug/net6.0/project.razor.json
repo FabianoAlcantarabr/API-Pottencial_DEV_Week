@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "api_potencial_dev_week",
+  "RootNamespace": "Dotnet__Dio",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

@@ -27,7 +27,6 @@ public class Pessoa
     public int idade { get; set; }
     public string? cpf { get; set; }
     public bool ativado { get; set; }
-
     public List<Contrato> contratos { get; set; }
 
 }
